@@ -12,6 +12,6 @@ Click any Img to see code and live demo
 
 <p align = "left">
   <a href='/Frontend Projects/01-single-page-cv'>
-    blala
+    <img width="48%" src= "./assets/images/project-1.png">
   </a>
 </p>
