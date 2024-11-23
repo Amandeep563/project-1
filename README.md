@@ -15,6 +15,6 @@ Click any Img to see code and live demo
     <img width="48%" src= "./asstes/images/project-1.png">
   </a>
   <a href = '/Frontend Projects/02-Basic-HTML-Website'>
-<!--     <img width = "48%" src="./asstes/images/pro"> -->
+    <img width = "48%" src="./asstes/images/project-2.png">
   </a>
 </p>
